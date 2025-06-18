@@ -1,0 +1,10 @@
+# Demo application dependencies
+# This is a simple demo, so we don't need many dependencies
+
+# For testing (optional)
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# For code formatting (optional)
+black==23.7.0
+flake8==6.0.0 
